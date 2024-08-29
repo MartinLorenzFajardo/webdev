@@ -1,0 +1,37 @@
+.content {
+    padding: 2rem;
+}
+p, h4, ul {
+    color: rgb(49, 190, 138);
+}
+.intro {
+    text-align: center;
+}
+.intro img {
+    border-radius: 12px;
+}
+.recent img {
+    width: 27rem;
+    border-radius: 12px;
+}
+.card {
+    display: flex;
+    justify-content: center;
+}
+.card-left {
+    text-align: center;
+}
+.card-left, .card-right {
+    width: 50%;
+    margin: 0.5rem;
+}
+h4 {
+    color: rgb(201, 0, 0);
+}
+span {
+    color: red;
+}
+a {
+    text-decoration: none;
+    color: rgb(0, 204, 204);
+}

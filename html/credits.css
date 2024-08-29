@@ -1,0 +1,9 @@
+.content {
+    padding: 2rem;
+}
+p, h5 {
+    color: rgb(49, 190, 138);
+}
+a {
+    text-decoration: none;
+}
